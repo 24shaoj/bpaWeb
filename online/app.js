@@ -41,7 +41,7 @@ function addDataToHTML(){
             let newProduct = document.createElement('div');
             newProduct.classList.add('item');
             newProduct.innerHTML = 
-            `<img src="/assets/images/${product.image}" alt="">
+            `<img src="${product.image}" alt="">
             <h2>${product.name}</h2>
             <h2>${product.catagory}</h2>
             <div class="price">$${product.price}</div>
