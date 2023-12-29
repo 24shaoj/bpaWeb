@@ -5,7 +5,7 @@
         "name": "Product 1",
         "catagory": "Appitizer",
         "price": 20,
-        "image": "3.png"
+        "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2014/09/Baked-Chicken-Wings-3-500x500.jpg"
     },
     {
         "id": 2,
