@@ -4,15 +4,15 @@
         "id": 1,
         "name": "Peanuts",
         "catagory": "Appitizer",
-        "price": 2.50,
+        "price": "2.50",
         "image": "https://i.etsystatic.com/40575844/r/il/a33bec/4651215551/il_300x300.4651215551_kpho.jpg"
     },
     {
         "id": 2,
-        "name": "Product 2",
+        "name": "Mozzarella Sticks",
         "catagory": "Appitizer",
-        "price": 20,
-        "image": "3.png"
+        "price": "4.00",
+        "image": "https://sugarspunrun.com/wp-content/uploads/2021/07/Homemade-Mozzarella-Sticks-Recipe-2-of-5.jpg"
     },
     {
         "id": 3,
